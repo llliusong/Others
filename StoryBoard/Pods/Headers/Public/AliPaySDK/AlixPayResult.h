@@ -1,1 +1,0 @@
-../../../AliPaySDK/AlixPayResult.h
